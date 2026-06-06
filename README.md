@@ -68,5 +68,3 @@ sentiment-analysis/
 
 
 
-## 🙏 Acknowledgement
-Original notebook by [Lakshmi Narayana](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) on Kaggle. This work extends it with additional preprocessing, models, tuning, and evaluation components.
