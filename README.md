@@ -18,10 +18,10 @@ Predict whether a movie review is **positive** or **negative** using Natural Lan
 ---
 
 ##  Models Used
-- Logistic Regression *(original + tuned with GridSearchCV)*
-- SVM — SGD Classifier *(original)*
-- Multinomial Naive Bayes *(original)*
-- **Random Forest** *(new — extension)*
+- Logistic Regression *(tuned with GridSearchCV)*
+- SVM — SGD Classifier *
+- Multinomial Naive Bayes 
+- **Random Forest**
 
 ---
 
