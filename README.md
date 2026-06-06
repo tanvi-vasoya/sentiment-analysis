@@ -7,19 +7,17 @@ Predict whether a movie review is **positive** or **negative** using Natural Lan
 
 ---
 
-## 📂 Dataset
+##  Dataset
 | Property | Details |
 |----------|---------|
 | Name | IMDB Dataset of 50K Movie Reviews |
 | Source | [Kaggle](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input) |
 | Size | ~66 MB |
 | Reviews | 50,000 (25,000 positive, 25,000 negative) |
-| Balance | Perfectly balanced dataset |
-| Split | 40,000 train / 10,000 test (stratified) |
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 - Logistic Regression *(original + tuned with GridSearchCV)*
 - SVM — SGD Classifier *(original)*
 - Multinomial Naive Bayes *(original)*
@@ -27,7 +25,7 @@ Predict whether a movie review is **positive** or **negative** using Natural Lan
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Model | Accuracy | F1 Score | Precision | Recall |
 |-------|----------|----------|-----------|--------|
